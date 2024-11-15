@@ -1,0 +1,46 @@
+.icon h5 i {
+    color: black;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: grey;
+}
+
+.navbar {
+    padding-bottom: 15px;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: 25px;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 120px;
+}
+
+.bglink {
+    margin-bottom: 295px;
+    padding-top: 90px;
+}
+
+.bglink img {
+    width: 45px;
+    height: 45px;
+}
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+.card-text:hover {
+    color: rgb(54, 56, 59) !important;
+}

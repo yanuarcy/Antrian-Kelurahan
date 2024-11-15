@@ -1,0 +1,83 @@
+.header {
+    width: 100%;
+    background: #00aa9d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    color: #ffffff;
+    
+}
+
+.logo img {
+    height: 170px;
+}
+
+.info {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 3.5em;
+    font-family: Poppins-Regular;
+}
+
+.info p {
+    margin: 5px 0 0;
+    font-size: 1.5em;
+    font-family: Poppins-Regular;
+}
+
+.date {
+    font-size: 1.2em;
+}
+
+.icon h5 i {
+    color: black;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: grey;
+}
+
+.navbar {
+    padding-bottom: 15px;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: -25px;
+    right: 10px;
+    opacity: 1;
+    font-size: 90px;
+}
+
+.bglink {
+    margin-bottom: 295px;
+    padding-top: 90px;
+}
+
+.bglink img {
+    width: 45px;
+    height: 45px;
+}
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+.card-text:hover {
+    color: rgb(54, 56, 59) !important;
+}
